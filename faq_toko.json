@@ -1,0 +1,33 @@
+[
+  {
+    "tag": "jam_operasional",
+    "keywords": ["jam buka", "jam operasional", "buka jam berapa", "sampai jam berapa", "tutup jam berapa"],
+    "answer": "Toko Ayu Cell buka setiap hari dari jam 08.00 sampai jam 02.00 WIB."
+  },
+  {
+    "tag": "alamat",
+    "keywords": ["alamat", "lokasi", "di mana", "dimana", "maps", "tanjungharja"],
+    "answer": "Alamat Ayu Cell: Tanjungharja, Kab. Tegal, Jawa Tengah."
+  },
+  {
+    "tag": "cara_order",
+    "keywords": ["cara order", "cara pesan", "bisa beli lewat online", "order dimana", "order lewat apa", "pesan lewat apa"],
+    "answer": "Cara order di Ayu Cell:\n• Tokopedia\n• Shopee\n• WhatsApp: 083842685163\n• Datang langsung ke alamat kami di Tanjungharja, Kab. Tegal."
+  },
+  {
+    "tag": "produk",
+    "keywords": ["jual apa saja", "produk apa saja", "barang apa saja", "paket kuota", "laptop", "aksesoris", "jaringan"],
+    "answer": "Ayu Cell menyediakan paket kuota, pulsa, aksesoris HP, casing, headset, dan perlengkapan handphone lainnya."
+  },
+  {
+    "tag": "metode_pembayaran",
+    "keywords": ["metode pembayaran", "cara bayar", "bayarnya gimana", "bayar lewat apa"],
+    "answer": "Metode pembayaran di Ayu Cell meliputi:\n• Transfer Bank (BCA, Mandiri, BRI)\n• OVO\n• GoPay\n• Dana\n• COD (Cash on Delivery) untuk wilayah sekitar toko."
+  },
+  {
+    "tag": "terima_kasih",
+    "keywords": ["makasih", "terimakasih", "thanks", "thank you"],
+    "answer": "Sama-sama! Jika ada pertanyaan lain, jangan ragu untuk bertanya ya 😊"
+  }
+]
+
